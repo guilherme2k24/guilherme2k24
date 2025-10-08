@@ -5,7 +5,7 @@
 ## Contact
 <p align="left">
   <a href="mailto:guilhermevaladares007@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="40" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/guilhermevaladaresjalles/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
