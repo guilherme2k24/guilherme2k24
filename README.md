@@ -2,8 +2,6 @@
 
 💻 Information Systems Student
 
----
-
 ## Contact
 <p>
   <a href="mailto:guilhermevaladares007@gmail.com">
@@ -13,8 +11,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
 
 ## Skills and Tech
 <p align="left">
@@ -31,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
-
----
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme2k24&count_private=true&layout=compact&theme=radical&hide_border=true)
