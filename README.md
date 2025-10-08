@@ -3,14 +3,15 @@
 💻 Information Systems Student
 
 ## Contact
-<p>
-  <a href="mailto:guilhermevaladares007@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/guilhermevaladaresjalles/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="left">
+  <a href="mailto:guilhermevaladares007@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/guilhermevaladaresjalles/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 ## Skills and Tech
 <p align="left">
