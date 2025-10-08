@@ -9,8 +9,10 @@
    <a href="mailto:guilhermevaladares007@gmail.com"> 
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
 <a href="mailto:guilhermevaladares007@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="40" alt="Email" />
-</a>
+<a href="https://linkedin.com/in/guilhermevaladaresjalles/"> 
+   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+   </a> 
+</p>
    
 ### Skills and Tech
 <p align="left">
