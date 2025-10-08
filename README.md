@@ -5,12 +5,13 @@
 ## Contact
 <p align="left">
   <a href="mailto:guilhermevaladares007@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/guilhermevaladaresjalles/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" alt="LinkedIn" />
   </a>
 </p>
+
 
 
 
