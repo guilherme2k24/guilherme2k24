@@ -4,7 +4,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 <p>
   <a href="mailto:guilhermevaladares007@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Skills
+## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,5 +26,6 @@
 
 ---
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme2k24&layout=compact&theme=radical&hide_border=true)
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme2k24&count_private=true&layout=compact&theme=radical&hide_border=true)
+
