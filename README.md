@@ -28,5 +28,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </p>
 
-### 📊 Most Used Languages
+### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme2k24&layout=compact&theme=radical" alt="Top Languages" />
